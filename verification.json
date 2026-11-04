@@ -1,0 +1,12 @@
+{
+  "result": "passed",
+  "verifiedAt": "2026-11-04T14:13:42.492989+00:00",
+  "githubAccount": "0xbae",
+  "organization": "plemulabs",
+  "distinctForks": 51,
+  "directForkParentsVerified": 51,
+  "pinnedCommitsAvailableThroughForks": 51,
+  "originalSubmoduleUrls": 51,
+  "gamesBuiltOrTested": false,
+  "verificationScope": "API repository IDs, direct parents and exact pinned commit availability; local URLs/gitlinks/checkouts verified by scripts/verify-catalog.py."
+}

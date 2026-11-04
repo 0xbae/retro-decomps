@@ -1,0 +1,204 @@
+[submodule "games/gba/pokeemerald"]
+	path = games/gba/pokeemerald
+	url = https://github.com/pret/pokeemerald.git
+	shallow = true
+[submodule "games/gba/pokefirered"]
+	path = games/gba/pokefirered
+	url = https://github.com/pret/pokefirered.git
+	shallow = true
+[submodule "games/gba/pokeruby"]
+	path = games/gba/pokeruby
+	url = https://github.com/pret/pokeruby.git
+	shallow = true
+[submodule "games/gba/pmd-red"]
+	path = games/gba/pmd-red
+	url = https://github.com/pret/pmd-red.git
+	shallow = true
+[submodule "games/gba/tmc"]
+	path = games/gba/tmc
+	url = https://github.com/zeldaret/tmc.git
+	shallow = true
+[submodule "games/gba/mzm"]
+	path = games/gba/mzm
+	url = https://github.com/metroidret/mzm.git
+	shallow = true
+[submodule "games/gba/mf"]
+	path = games/gba/mf
+	url = https://github.com/metroidret/mf.git
+	shallow = true
+[submodule "games/gba/warioland4"]
+	path = games/gba/warioland4
+	url = https://github.com/lilDavid/warioland4.git
+	shallow = true
+[submodule "games/gba/mksc"]
+	path = games/gba/mksc
+	url = https://github.com/jellees/mksc.git
+	shallow = true
+[submodule "games/gba/mlss"]
+	path = games/gba/mlss
+	url = https://github.com/jellees/mlss.git
+	shallow = true
+[submodule "games/gba/sa2"]
+	path = games/gba/sa2
+	url = https://github.com/SAT-R/sa2.git
+	shallow = true
+[submodule "games/gba/sa3"]
+	path = games/gba/sa3
+	url = https://github.com/SAT-R/sa3.git
+	shallow = true
+[submodule "games/gba/fireemblem6j"]
+	path = games/gba/fireemblem6j
+	url = https://github.com/FireEmblemUniverse/fireemblem6j.git
+	shallow = true
+[submodule "games/gba/fe6"]
+	path = games/gba/fe6
+	url = https://github.com/StanHash/fe6.git
+	shallow = true
+[submodule "games/gba/fireemblem8u"]
+	path = games/gba/fireemblem8u
+	url = https://github.com/FireEmblemUniverse/fireemblem8u.git
+	shallow = true
+[submodule "games/gba/rmz3"]
+	path = games/gba/rmz3
+	url = https://github.com/mmzret/rmz3.git
+	shallow = true
+[submodule "games/gba/pokepinballrs"]
+	path = games/gba/pokepinballrs
+	url = https://github.com/pret/pokepinballrs.git
+	shallow = true
+[submodule "games/gba/katam"]
+	path = games/gba/katam
+	url = https://github.com/jiangzhengwenjz/katam.git
+	shallow = true
+[submodule "games/gba/sma2-disasm"]
+	path = games/gba/sma2-disasm
+	url = https://github.com/KarisaAdvynia/sma2-disasm.git
+	shallow = true
+[submodule "games/gba/sma3-disasm"]
+	path = games/gba/sma3-disasm
+	url = https://github.com/KarisaAdvynia/sma3-disasm.git
+	shallow = true
+[submodule "games/gba/sma4-disasm"]
+	path = games/gba/sma4-disasm
+	url = https://github.com/KarisaAdvynia/sma4-disasm.git
+	shallow = true
+[submodule "games/gba/mariovsdk"]
+	path = games/gba/mariovsdk
+	url = https://github.com/camthesaxman/mariovsdk.git
+	shallow = true
+[submodule "games/gba/goldensun"]
+	path = games/gba/goldensun
+	url = https://github.com/gsret/goldensun.git
+	shallow = true
+[submodule "games/snes/SMWDisX"]
+	path = games/snes/SMWDisX
+	url = https://github.com/IsoFrieze/SMWDisX.git
+	shallow = true
+[submodule "games/snes/yoshisisland-disassembly"]
+	path = games/snes/yoshisisland-disassembly
+	url = https://github.com/brunovalads/yoshisisland-disassembly.git
+	shallow = true
+[submodule "games/snes/sm_disassembly"]
+	path = games/snes/sm_disassembly
+	url = https://github.com/InsaneFirebat/sm_disassembly.git
+	shallow = true
+[submodule "games/snes/ebsrc"]
+	path = games/snes/ebsrc
+	url = https://github.com/Herringway/ebsrc.git
+	shallow = true
+[submodule "games/snes/ff4"]
+	path = games/snes/ff4
+	url = https://github.com/everything8215/ff4.git
+	shallow = true
+[submodule "games/snes/ff5"]
+	path = games/snes/ff5
+	url = https://github.com/everything8215/ff5.git
+	shallow = true
+[submodule "games/snes/ff6"]
+	path = games/snes/ff6
+	url = https://github.com/everything8215/ff6.git
+	shallow = true
+[submodule "games/snes/Donkey-Kong-Country-1-Disassembly"]
+	path = games/snes/Donkey-Kong-Country-1-Disassembly
+	url = https://github.com/Yoshifanatic1/Donkey-Kong-Country-1-Disassembly.git
+	shallow = true
+[submodule "games/snes/DKC2-disassembly"]
+	path = games/snes/DKC2-disassembly
+	url = https://github.com/p4plus2/DKC2-disassembly.git
+	shallow = true
+[submodule "games/snes/Donkey-Kong-Country-3-Disassembly"]
+	path = games/snes/Donkey-Kong-Country-3-Disassembly
+	url = https://github.com/Yoshifanatic1/Donkey-Kong-Country-3-Disassembly.git
+	shallow = true
+[submodule "games/snes/Goof-Troop-Disassembly"]
+	path = games/snes/Goof-Troop-Disassembly
+	url = https://github.com/Yoshifanatic1/Goof-Troop-Disassembly.git
+	shallow = true
+[submodule "games/snes/Super-Punch-Out-Disassembly"]
+	path = games/snes/Super-Punch-Out-Disassembly
+	url = https://github.com/Yoshifanatic1/Super-Punch-Out-Disassembly.git
+	shallow = true
+[submodule "games/snes/Super-Mario-RPG-Disassembly"]
+	path = games/snes/Super-Mario-RPG-Disassembly
+	url = https://github.com/Yoshifanatic1/Super-Mario-RPG-Disassembly.git
+	shallow = true
+[submodule "games/snes/FireEmblem5"]
+	path = games/snes/FireEmblem5
+	url = https://github.com/ZaneAvernathy/FireEmblem5.git
+	shallow = true
+[submodule "games/snes-native/smw"]
+	path = games/snes-native/smw
+	url = https://github.com/snesrev/smw.git
+	shallow = true
+[submodule "games/snes-native/zelda3"]
+	path = games/snes-native/zelda3
+	url = https://github.com/snesrev/zelda3.git
+	shallow = true
+[submodule "games/snes-native/sm"]
+	path = games/snes-native/sm
+	url = https://github.com/snesrev/sm.git
+	shallow = true
+[submodule "games/nes/smb1"]
+	path = games/nes/smb1
+	url = https://github.com/Xkeeper0/smb1.git
+	shallow = true
+[submodule "games/gb/pokered"]
+	path = games/gb/pokered
+	url = https://github.com/pret/pokered.git
+	shallow = true
+[submodule "games/gb/pokeyellow"]
+	path = games/gb/pokeyellow
+	url = https://github.com/pret/pokeyellow.git
+	shallow = true
+[submodule "games/gbc/pokecrystal"]
+	path = games/gbc/pokecrystal
+	url = https://github.com/pret/pokecrystal.git
+	shallow = true
+[submodule "games/gbc/LADX-Disassembly"]
+	path = games/gbc/LADX-Disassembly
+	url = https://github.com/zladx/LADX-Disassembly.git
+	shallow = true
+[submodule "games/n64/sm64"]
+	path = games/n64/sm64
+	url = https://github.com/n64decomp/sm64.git
+	shallow = true
+[submodule "games/n64/mk64"]
+	path = games/n64/mk64
+	url = https://github.com/n64decomp/mk64.git
+	shallow = true
+[submodule "games/n64/banjo-kazooie"]
+	path = games/n64/banjo-kazooie
+	url = https://github.com/n64decomp/banjo-kazooie.git
+	shallow = true
+[submodule "games/n64/oot"]
+	path = games/n64/oot
+	url = https://github.com/zeldaret/oot.git
+	shallow = true
+[submodule "games/n64/mm"]
+	path = games/n64/mm
+	url = https://github.com/zeldaret/mm.git
+	shallow = true
+[submodule "games/n64/papermario"]
+	path = games/n64/papermario
+	url = https://github.com/pmret/papermario.git
+	shallow = true
